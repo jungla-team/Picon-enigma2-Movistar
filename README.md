@@ -14,6 +14,8 @@ Los picones los realizamos en formato .png, a tamaño 440x264 alta calidad, la m
 
 Os dejamos una captura de ambos tipos:
 
+<img>https://github.com/jungla-team/Picon-enigma2-Movistar/blob/main/jungle-picon-Movistar-Transparente/picon/1_0_19_78B6_3EC_1_C00000_0_0_0.png</img>
+
 ## Instalacion Picon
 
 En la actualidad los picones enigma2 que realizamos en Jungle-Team la podemos instalar de diferentes metodos, por lo que podemos elegir que metodo se adapta mas a nuestras necesidades.
