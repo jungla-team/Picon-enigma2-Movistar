@@ -1,1 +1,7 @@
-
+Package: enigma2-plugin-picons-jungle-movistar-transparente
+Version: 5.10.2020
+Architecture: all
+Section: base
+Priority: optional
+Maintainer: jungle-team
+Description: Picon Movistar astra 19.2 mosca original 440x264
