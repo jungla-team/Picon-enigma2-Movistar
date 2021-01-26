@@ -11,6 +11,7 @@ Los picones los realizamos en formato .png, a tamaño 440x264 alta calidad, la m
 
 * Transparente
 * Lunar
+* Color
 
 Os dejamos una captura de ambos tipos:
 
@@ -24,7 +25,7 @@ En la actualidad los picones enigma2 que realizamos en Jungle-Team la podemos in
 
 Un script que instalamos en nuestro receptor y que su utilidad fundamental es que la actualizacion de los picones es automatica, para mas informacion podeis seguir el manual:
 
-* https://jungle-team.com/junglescript-lista-canales-y-picon-enigma2-movistar/
+* https://jungle-team.com/junglescript-5-0-auto-instalador-lista-canales-y-picon-enigma2/
 
 ### A traves del PC
 
