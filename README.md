@@ -12,6 +12,7 @@ Los picones los realizamos en formato .png, a tamaño 440x264 alta calidad, la m
 * Transparente
 * Lunar
 * Color
+* Color-3D
 
 Os dejamos una captura de ambos tipos:
 
