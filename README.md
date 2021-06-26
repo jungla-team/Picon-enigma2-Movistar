@@ -43,7 +43,7 @@ Nos descargamos los picones en nuestro pc, y la introducimos en nuestro receptor
 
 ## Creacion IPK picon
 
-Proximamente
+* A través del feed de Jungle-Team se pueden instalar los picons vía ipk.
 
 ## Colaboracion
 
