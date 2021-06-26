@@ -39,11 +39,9 @@ Nos descargamos los picones en nuestro pc, y la introducimos en nuestro receptor
 
 ### Source feed Jungle-Team
 
-* Proximamente
+```wget http://tropical.jungle-team.online/script/jungle-feed.conf -P /etc/opkg/```
 
-## Creacion IPK picon
-
-* A través del feed de Jungle-Team se pueden instalar los picons vía ipk.
+https://jungle-team.com/jungle-feed-repositorio-paquetes-jungle-team/
 
 ## Colaboracion
 
