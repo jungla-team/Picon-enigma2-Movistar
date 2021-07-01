@@ -14,9 +14,9 @@ Los picones los realizamos en formato .png, a tamaño 440x264 alta calidad, la m
 * Color
 * Color-3D
 
-Os dejamos una captura de ambos tipos:
+Os dejamos una captura:
 
-<img src="https://raw.githubusercontent.com/jungla-team/Picon-enigma2-Movistar/main/jungle-picon-Movistar-Transparente/picon/1_0_19_78B6_3EC_1_C00000_0_0_0.png"><p></p><h3></h3><p></p> <img src="https://raw.githubusercontent.com/jungla-team/Picon-enigma2-Movistar/main/jungle-picon-movistar-lunar/picon/1_0_19_7856_41A_1_C00000_0_0_0.png"><p></p><h3></h3><p></p>
+<img src="https://raw.githubusercontent.com/jungla-team/Picon-enigma2-Movistar/main/jungle-picon-Movistar-Transparente/picon/1_0_19_78B6_3EC_1_C00000_0_0_0.png"><p></p><h3></h3><p></p>
 
 ## Instalacion Picon
 
