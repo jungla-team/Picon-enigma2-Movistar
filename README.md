@@ -11,8 +11,6 @@ Picon enigma2 de canales de television de la plataforma Movistar+, que se emiten
 
 La descarga de **los picones es gratuita**, no obstante si te gustan y deseas colaborar Para el mantenimiento de los servidores y Blog que gestiona jungle-team puedes realizar una donacion:
 
-## [![](https://33333.cdn.cke-cs.com/kSW7V9NHUXugvhoQeFaf/images/03969ac6f01c35f8679f023614f0b731e7d3b32eb109d9d3.png)](https://www.paypal.me/jungleteam)
-
 ## Formato Picones
 
 Los picones de los canales que se realizan para la plataforma Movistar+, en cada [**actualizacion de las mismas**](https://github.com/jungla-team/Picon-enigma2-Movistar/releases/tag/jungle-picon) se realizan estos logos normalmente desde 0 buscando los sources de font y luego imitando la mosca TV original de cada canal en emision, los picones los realizamos con las siguientes caracteristicas:
@@ -75,19 +73,9 @@ wget http://tropical.jungle-team.online/script/jungle-feed.conf -P /etc/opkg/
 
 Una vez hemos añadido los repositorios jungle-team, ya podemos instalar facilmente la lista canales desde el menu + plugins + boton descargas en la categoria picons
 
-![](https://33333.cdn.cke-cs.com/kSW7V9NHUXugvhoQeFaf/images/63c33f359869a1a02791fd8a9413b43671d079c1008d0ddb.jpeg)
-
-![](https://33333.cdn.cke-cs.com/kSW7V9NHUXugvhoQeFaf/images/c7029209a5fbb46eb2b93ba921cb55d7b27e4f4267a24f33.jpeg)
-
-![](https://33333.cdn.cke-cs.com/kSW7V9NHUXugvhoQeFaf/images/eec08afa2221c70101eea26ca591dfe3cf4840e81c57a808.jpeg)
-
 ### **4\. Desde jungleBot**
 
 Junglebot es un bot telegram que nos permite controlar nuestro receptor desde telegram, una de las caracteristicas que tiene es que podemos instalar los picones desde el mismo (es necesario previamente tener instalado junglescript)
-
-![](https://33333.cdn.cke-cs.com/kSW7V9NHUXugvhoQeFaf/images/ccfc9b8f44fa3f55b34d6e1bf91df48cb8d3037645b08772.png)
-
-![](https://33333.cdn.cke-cs.com/kSW7V9NHUXugvhoQeFaf/images/ab0f1bc87c89b5c96c6aca25d0f193072e031b4c92a55188.png)
 
 Si deseas mas informacion sobre junglebot, puedes ver el articulo manual:
 
