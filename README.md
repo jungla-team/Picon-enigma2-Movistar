@@ -1,17 +1,18 @@
-## Picon Enigma2 Satelite
+![logo speedy](https://jungle-team.com/wp-content/uploads/2023/04/picon_logo.png)
 
-Picon enigma2 de canales de television de la plataforma Movistar+, que se emiten a traves del Satelite Astra 19.2º **para receptores enigma2** . Especialmente enfocado a España. Nos podeis encontrar:
+[![Licencia speedy](https://jungle-team.com/wp-content/uploads/2023/03/licence.png)
+](https://github.com/jungla-team/Speedy-OEA-autoinstall/blob/main/LICENSE) [![chat telegram](https://jungle-team.com/wp-content/uploads/2023/03/telegram.png)
+](https://t.me/joinchat/R_MzlCWf4Kahgb5G) [![donar a jungle](https://jungle-team.com/wp-content/uploads/2023/03/donate.png)
+](https://paypal.me/jungleteam)
 
-*   **Grupo telegram de ayuda y soporte:** [https://t.me/joinchat/AFo2KEfzM5Tk7y3VgcqIOA](https://t.me/joinchat/AFo2KEfzM5Tk7y3VgcqIOA)
-*   **Web oficial jungle-team:** https://jungle-team.com/
 
----
+`Picon enigma2 Moistar` son logos de canales en png correspondientes a la Plataforma Movistar+, que se muestran en la interfaz grafica de receptores enigma2, aunque tambien pueden ser usados en otros dispositivos compatibles.
 
-## Colabora con el projecto
+Si deseas obtener ayudas asi como prestarlas sobre este desarrollo, asi como con enigma2 en general, tenemos  [grupo de Telegram](https://telegram.me/pythontelegrambotgroup) . ¡Únete a nosotros!
 
-La descarga de **los picones es gratuita**, no obstante si te gustan y deseas colaborar Para el mantenimiento de los servidores y Blog que gestiona jungle-team puedes realizar una donacion:
+Si deseas estar a la ultima sobre novedades desarrolladas por jungle team [canal de Telegram noticias](https://telegram.me/pythontelegrambotchannel) .
 
-## Formato Picones
+## Caracteristicas de los picones
 
 Los picones de los canales que se realizan para la plataforma Movistar+, en cada [**actualizacion de las mismas**](https://github.com/jungla-team/Picon-enigma2-Movistar/releases/tag/jungle-picon) se realizan estos logos normalmente desde 0 buscando los sources de font y luego imitando la mosca TV original de cada canal en emision, los picones los realizamos con las siguientes caracteristicas:
 
@@ -23,16 +24,24 @@ Realizamos 4 de formatos de picon, para que cada usuario pueda elegir que tipo d
 
 | **TIPO** | ultima actualizacion | descripcion |
 | --- | --- | --- |
-| Transparente | 31-01-2023 | fondo trasparente, logo tipo mosca tv original en emision  |
-| Color | 31-01-2023 | Fondo transparente, logo a color  |
-| Lunar | 31-01-2023 | Fondo Negro/gris degradado, logo con reflejo |
-| 3D | 09-08-2022 | fondo transparente, logo tipo 3D  |
+| Transparente | 02-04-2023 | fondo trasparente, logo tipo mosca tv original en emision  |
+| Color | 02-04-2023 | Fondo transparente, logo a color  |
+| Lunar | 02-04-2023 | Fondo Negro/gris degradado, logo con reflejo |
+| 3D | 03-04-2023 | fondo transparente, logo tipo 3D  |
 
 ---
 
-## Capturas visuales de tipo de Picon 
+## Capturas visuales de tipo de Picon
 
-Para que podais ver visualmente como es cada picon y de esta manera haceros mejor idea de como son los mismos os dejamos unas capturas de los mismos: 
+Para que podais ver visualmente como es cada picon y de esta manera haceros mejor idea de como son los mismos os dejamos unas capturas de los mismos:
+
+
+![1_0_1_75B0_422_1_C00000_0_0_0](https://user-images.githubusercontent.com/44529886/229458556-f59930c7-ec4f-4cb6-8d7c-d5aa6225180b.png)![1_0_1_75FA_408_1_C00000_0_0_0](https://user-images.githubusercontent.com/44529886/229459668-bf73d02f-97e1-4b33-895c-1e64a717c518.png)
+![1_0_1_75F9_408_1_C00000_0_0_0](https://user-images.githubusercontent.com/44529886/229459836-049e2015-cd93-4b3a-9f9f-4f524f6a6819.png)
+![1_0_1_76C0_40E_1_C00000_0_0_0](https://user-images.githubusercontent.com/44529886/229460025-b32febcc-fcec-4b5f-8272-eb3dad9a8bb2.png)
+![1_0_1_746A_3F0_1_C00000_0_0_0](https://user-images.githubusercontent.com/44529886/229460244-c9552163-6310-4895-bf11-50e45c4774da.png)
+![1_0_1_7478_3F0_1_C00000_0_0_0](https://user-images.githubusercontent.com/44529886/229460446-abbfdb53-7fd9-46c2-83ae-fbb0d6b50ac9.png)
+
 
 ---
 
@@ -77,12 +86,28 @@ Junglebot es un bot telegram que nos permite controlar nuestro receptor desde te
 
 Si deseas mas informacion sobre junglebot, puedes ver el articulo manual:
 
-*   [https://jungle-team.com/junglebot-2-5-0-controla-enigma2-con-telegram/](https://jungle-team.com/junglebot-2-5-0-controla-enigma2-con-telegram/)
+*   [https://jungle-team.com/guia-junglebot-revolution-4-1-1/](https://jungle-team.com/guia-junglebot-revolution-4-1-1/)
 
----
+### **5\. Desde Panel extra Openspa**
 
-## **Contacta con nosotros**
+Desde panel Extra openspa tambien estan disponibles los picones para su descarga.
 
-Si observas en los picones cualquier error, o tienes alguna mejora que te gustaria añadir a los picones o Como mejorar los mismos, puedes contactarnos al traves del grupo telegram de jungle-team:
 
-*   https://t.me/joinchat/AFo2KEfzM5Tk7y3VgcqIOA
+## Obteniendo ayuda
+
+Si los recursos mencionados anteriormente no responden a sus preguntas o dudas,  o te ha resultado muy complicado, tienes varias formas de obtener ayuda.
+
+1.  Tenemos una comunidad donde se intenta que se ayudan unos a otros en nuestro [grupo de Telegram](https://t.me/joinchat/R_MzlCWf4Kahgb5G) . ¡Únete a nosotros! Hacer una pregunta aquí suele ser la forma más rápida de obtener respuesta y poder hablar directamente con los desarrolladores.
+2.  Tambien puedes leer con detenimiento los manuale disponibles en nuestro blog https://jungle-team.com/.
+
+## contribuir
+
+Los picones estan desarrollado sbajo codigo abierto, por lo que las contribuciones de todos los tamaños son bienvenidas para mejorar o ampliar las posibilidades del mismo. También puede ayudar [informando errores o solicitudes de funciones a traves del grupo telegram](https://t.me/joinchat/R_MzlCWf4Kahgb5G) .
+
+## [](jungleteam#donating)donando
+
+De vez en cuando nos preguntan si aceptamos donaciones para apoyar el desarrollo. Si bien, mantener `picones movistar`  es nuestro hobby y  pasatiempo, si tenemos un coste de mantenimiento de servidor de repositorios asi como [del blog enigma2](https://jungle-team.com/), por lo que si deseas colaborar en su mantenimiento sirvase de realizar [Donacion](https://paypal.me/jungleteam)
+
+## [](jungle-team#license)Licencia
+
+Puede copiar, distribuir y modificar el software siempre que las modificaciones se describan y se licencien de forma gratuita bajo [LGPL-3](https://www.gnu.org/licenses/lgpl-3.0.html) . Los trabajos derivados (incluidas las modificaciones o cualquier cosa vinculada estáticamente a la biblioteca) solo se pueden redistribuir bajo LGPL-3.
