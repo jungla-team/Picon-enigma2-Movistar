@@ -1,7 +1,0 @@
-Package: enigma2-plugin-picons-jungle-movistar-color
-Version: 03.12.2023
-Architecture: all
-Section: base
-Priority: optional
-Maintainer: jungle-team
-Description: Picon Movistar astra 19.2 color 440x264
