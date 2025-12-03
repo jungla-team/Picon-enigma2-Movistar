@@ -24,10 +24,10 @@ Realizamos 4 de formatos de picon, para que cada usuario pueda elegir que tipo d
 
 | **TIPO** | ultima actualizacion | descripcion |
 | --- | --- | --- |
-| Transparente | 15-11-2025 | fondo trasparente, logo tipo mosca tv original en emision  |
-| Color | 15-11-2025 | Fondo transparente, logo a color  |
-| Lunar | 11-11-2025| Fondo Negro/gris degradado, logo con reflejo |
-| 3D | 15-11-2025 | fondo transparente, logo tipo 3D  |
+| Transparente | 03-12-2025 | fondo trasparente, logo tipo mosca tv original en emision  |
+| Color | 03-12-2025 | Fondo transparente, logo a color  |
+| Lunar | 03-12-2025| Fondo Negro/gris degradado, logo con reflejo |
+| 3D | 03-12-2025 | fondo transparente, logo tipo 3D  |
 
 ---
 
